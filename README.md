@@ -8,3 +8,5 @@ In this repository, you will get to know how to download files form server using
 ### DataBinding
 ### BroadcastReceiver
 ### WAKE_LOCK and many more. 
+
+  <img src="https://user-images.githubusercontent.com/32242297/128630031-32029350-1afe-43a6-a61f-3130bae7f034.JPEG" width="270" height="600" />
